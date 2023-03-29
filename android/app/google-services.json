@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432574515929",
+    "project_id": "scale-app-b02ea",
+    "storage_bucket": "scale-app-b02ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432574515929:android:ddbc187c321972689bccc8",
+        "android_client_info": {
+          "package_name": "com.bereni.scaleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432574515929-0rqqlod47mcrhfb3nvol4uabjmrdmaja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADRv9BnObPpGixMWUdyXTRohCzBtUMgbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432574515929-0rqqlod47mcrhfb3nvol4uabjmrdmaja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

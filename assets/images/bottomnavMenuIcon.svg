@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="01) Icons/Line/bar-chart">
+<path id="&#240;&#159;&#142;&#168; Icon &#208;&#161;olor" fill-rule="evenodd" clip-rule="evenodd" d="M4 12C4 12.55 4.45 13 5 13L20 13C20.55 13 21 12.55 21 12C21 11.45 20.55 11 20 11L5 11C4.45 11 4 11.45 4 12ZM12 5C12 5.55 12.45 6 13 6L20 6C20.55 6 21 5.55 21 5C21 4.45 20.55 4 20 4L13 4C12.45 4 12 4.45 12 5ZM9 20C8.45 20 8 19.55 8 19C8 18.45 8.45 18 9 18L20 18C20.55 18 21 18.45 21 19C21 19.55 20.55 20 20 20L9 20Z" fill="#078184"/>
+<mask id="mask0_91_1262" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="4" y="4" width="17" height="16">
+<path id="&#240;&#159;&#142;&#168; Icon &#208;&#161;olor_2" fill-rule="evenodd" clip-rule="evenodd" d="M4 12C4 12.55 4.45 13 5 13L20 13C20.55 13 21 12.55 21 12C21 11.45 20.55 11 20 11L5 11C4.45 11 4 11.45 4 12ZM12 5C12 5.55 12.45 6 13 6L20 6C20.55 6 21 5.55 21 5C21 4.45 20.55 4 20 4L13 4C12.45 4 12 4.45 12 5ZM9 20C8.45 20 8 19.55 8 19C8 18.45 8.45 18 9 18L20 18C20.55 18 21 18.45 21 19C21 19.55 20.55 20 20 20L9 20Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_91_1262)">
+</g>
+</g>
+</svg>
